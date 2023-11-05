@@ -43,4 +43,12 @@ tvMessage.setText("Welcome!");
 Toast toast = Toast.makeText(this, "Name Cleared", Toast.LENGTH_SHORT);
 toast.show();
     }
+
+    public void testingFunction (View view) {
+
+    }
+
+    public void testingFunction2 (View view) {
+
+    }
 }
